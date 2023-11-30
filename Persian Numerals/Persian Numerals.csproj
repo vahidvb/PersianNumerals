@@ -125,9 +125,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md">
-      <SubType>Form</SubType>
-    </None>
     <None Include="Resources\Banner.jpg.jpg" />
   </ItemGroup>
   <ItemGroup>
